@@ -2,6 +2,7 @@
 
 #Remova toda pasta com rm -Rf /pasta/
 #Remova usuarios com userdel -r nomedousuario
+#Remova grupos com groupdel nomedogrupo
 
 echo "Criando diretórios..."
 mkdir /publico
